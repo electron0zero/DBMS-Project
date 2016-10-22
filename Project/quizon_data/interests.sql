@@ -1,0 +1,10 @@
+insert into interests (iid, description) values (null, 'Machine Learning');
+insert into interests (iid, description) values (null, 'php');
+insert into interests (iid, description) values (null, 'linux');
+insert into interests (iid, description) values (null, 'cats');
+insert into interests (iid, description) values (null, 'C');
+insert into interests (iid, description) values (null, 'programming');
+insert into interests (iid, description) values (null, 'YouTube');
+insert into interests (iid, description) values (null, 'BIG DATA');
+insert into interests (iid, description) values (null, 'DOTA2');
+insert into interests (iid, description) values (null, 'RDBMS');

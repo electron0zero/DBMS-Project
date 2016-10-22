@@ -1,0 +1,10 @@
+insert into exam_attempts (userid, examid) values (7, 4);
+insert into exam_attempts (userid, examid) values (6, 6);
+insert into exam_attempts (userid, examid) values (10, 9);
+insert into exam_attempts (userid, examid) values (4, 6);
+insert into exam_attempts (userid, examid) values (9, 2);
+insert into exam_attempts (userid, examid) values (10, 10);
+insert into exam_attempts (userid, examid) values (10, 2);
+insert into exam_attempts (userid, examid) values (4, 7);
+insert into exam_attempts (userid, examid) values (2, 4);
+insert into exam_attempts (userid, examid) values (2, 2);

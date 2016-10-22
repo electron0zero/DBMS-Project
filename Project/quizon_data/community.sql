@@ -1,0 +1,10 @@
+insert into community (cid, name) values (null, 'Miboo');
+insert into community (cid, name) values (null, 'Youbridge');
+insert into community (cid, name) values (null, 'Yotz');
+insert into community (cid, name) values (null, 'Meezzy');
+insert into community (cid, name) values (null, 'Vinder');
+insert into community (cid, name) values (null, 'Yodo');
+insert into community (cid, name) values (null, 'Edgepulse');
+insert into community (cid, name) values (null, 'Vidoo');
+insert into community (cid, name) values (null, 'Viva');
+insert into community (cid, name) values (null, 'Bubblemix');

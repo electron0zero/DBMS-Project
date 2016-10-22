@@ -1,0 +1,10 @@
+insert into skill_studymaterial (userid, skillid, sid) values (1, 8, 2);
+insert into skill_studymaterial (userid, skillid, sid) values (5, 5, 6);
+insert into skill_studymaterial (userid, skillid, sid) values (7, 5, 4);
+insert into skill_studymaterial (userid, skillid, sid) values (3, 9, 7);
+insert into skill_studymaterial (userid, skillid, sid) values (1, 7, 3);
+insert into skill_studymaterial (userid, skillid, sid) values (10, 1, 8);
+insert into skill_studymaterial (userid, skillid, sid) values (10, 10, 5);
+insert into skill_studymaterial (userid, skillid, sid) values (1, 2, 8);
+insert into skill_studymaterial (userid, skillid, sid) values (1, 1, 7);
+insert into skill_studymaterial (userid, skillid, sid) values (1, 9, 9);

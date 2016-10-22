@@ -1,0 +1,10 @@
+insert into challenges (challengeid, qid) values (null, 3);
+insert into challenges (challengeid, qid) values (null, 9);
+insert into challenges (challengeid, qid) values (null, 3);
+insert into challenges (challengeid, qid) values (null, 3);
+insert into challenges (challengeid, qid) values (null, 3);
+insert into challenges (challengeid, qid) values (null, 1);
+insert into challenges (challengeid, qid) values (null, 1);
+insert into challenges (challengeid, qid) values (null, 8);
+insert into challenges (challengeid, qid) values (null, 5);
+insert into challenges (challengeid, qid) values (null, 7);

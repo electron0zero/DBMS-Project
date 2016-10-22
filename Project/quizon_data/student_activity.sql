@@ -1,0 +1,10 @@
+insert into student_activity (userid, exam_attempts) values (3, 4);
+insert into student_activity (userid, exam_attempts) values (1, 4);
+insert into student_activity (userid, exam_attempts) values (6, 1);
+insert into student_activity (userid, exam_attempts) values (10, 4);
+insert into student_activity (userid, exam_attempts) values (7, 7);
+insert into student_activity (userid, exam_attempts) values (9, 3);
+insert into student_activity (userid, exam_attempts) values (5, 3);
+insert into student_activity (userid, exam_attempts) values (2, 9);
+insert into student_activity (userid, exam_attempts) values (8, 6);
+insert into student_activity (userid, exam_attempts) values (4, 2);

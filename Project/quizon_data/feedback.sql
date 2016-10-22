@@ -1,0 +1,10 @@
+insert into feedback (userid, iid, description) values (7, 4, 'good job');
+insert into feedback (userid, iid, description) values (3, 9, 'need improvement');
+insert into feedback (userid, iid, description) values (3, 2, 'you guys rock');
+insert into feedback (userid, iid, description) values (6, 9, 'it is the real good');
+insert into feedback (userid, iid, description) values (7, 1, 'i am impressed');
+insert into feedback (userid, iid, description) values (3, 5, 'i liked it ');
+insert into feedback (userid, iid, description) values (6, 3, 'this thing is good');
+insert into feedback (userid, iid, description) values (6, 2, 'this is good for real');
+insert into feedback (userid, iid, description) values (8, 4, 'you that guy rock');
+insert into feedback (userid, iid, description) values (8, 8, 'you are the real MVP');

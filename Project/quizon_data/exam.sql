@@ -1,0 +1,10 @@
+insert into exam (examid, time, date) values (null, '8:46', '2015-10-18');
+insert into exam (examid, time, date) values (null, '14:34', '2015-12-17');
+insert into exam (examid, time, date) values (null, '9:56', '2015-10-09');
+insert into exam (examid, time, date) values (null, '6:20', '2015-09-27');
+insert into exam (examid, time, date) values (null, '3:13', '2015-06-26');
+insert into exam (examid, time, date) values (null, '14:46', '2015-09-01');
+insert into exam (examid, time, date) values (null, '8:32', '2016-03-01');
+insert into exam (examid, time, date) values (null, '18:30', '2015-09-06');
+insert into exam (examid, time, date) values (null, '19:03', '2015-05-15');
+insert into exam (examid, time, date) values (null, '23:31', '2015-12-01');

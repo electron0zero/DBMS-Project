@@ -1,0 +1,10 @@
+insert into user (userid, name, email, location, password, isMentor) values (null, 'dhunter0', 'jmartin0@bloomberg.com', 'Myanmar', 'vvsrMWY1CaW', true);
+insert into user (userid, name, email, location, password, isMentor) values (null, 'spierce1', 'jgibson1@drupal.org', 'Philippines', 'Ia9KUl7l0', false);
+insert into user (userid, name, email, location, password, isMentor) values (null, 'sbailey2', 'epowell2@trellian.com', 'China', '7ypHvkK', false);
+insert into user (userid, name, email, location, password, isMentor) values (null, 'hclark3', 'kyoung3@fotki.com', 'Argentina', 'ZO3LUWZG', false);
+insert into user (userid, name, email, location, password, isMentor) values (null, 'jwillis4', 'rwest4@washingtonpost.com', 'Iran', 'h6fTLDx', true);
+insert into user (userid, name, email, location, password, isMentor) values (null, 'hevans5', 'mcook5@sfgate.com', 'Cuba', 'z3iCwqa4uPN4', true);
+insert into user (userid, name, email, location, password, isMentor) values (null, 'chawkins6', 'ishaw6@prnewswire.com', 'China', 'CWXMH5mmn', false);
+insert into user (userid, name, email, location, password, isMentor) values (null, 'dhamilton7', 'mrichardson7@umich.edu', 'Indonesia', 'vx3XZXCD1', false);
+insert into user (userid, name, email, location, password, isMentor) values (null, 'hkim8', 'kevans8@imgur.com', 'Russia', 'JJkNH2Kkh9bO', true);
+insert into user (userid, name, email, location, password, isMentor) values (null, 'ahoward9', 'jjenkins9@alibaba.com', 'China', 'OhMBQ7bqxCZS', true);

@@ -1,0 +1,10 @@
+insert into exam_posts (userid, examid) values (5, 9);
+insert into exam_posts (userid, examid) values (6, 9);
+insert into exam_posts (userid, examid) values (4, 9);
+insert into exam_posts (userid, examid) values (7, 7);
+insert into exam_posts (userid, examid) values (7, 5);
+insert into exam_posts (userid, examid) values (8, 3);
+insert into exam_posts (userid, examid) values (1, 4);
+insert into exam_posts (userid, examid) values (1, 5);
+insert into exam_posts (userid, examid) values (5, 7);
+insert into exam_posts (userid, examid) values (9, 3);

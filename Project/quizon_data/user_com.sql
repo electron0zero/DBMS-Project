@@ -1,0 +1,10 @@
+insert into user_com (userid, cid) values (8, 6);
+insert into user_com (userid, cid) values (4, 1);
+insert into user_com (userid, cid) values (10, 2);
+insert into user_com (userid, cid) values (8, 1);
+insert into user_com (userid, cid) values (3, 4);
+insert into user_com (userid, cid) values (2, 6);
+insert into user_com (userid, cid) values (4, 3);
+insert into user_com (userid, cid) values (7, 6);
+insert into user_com (userid, cid) values (8, 9);
+insert into user_com (userid, cid) values (6, 3);

@@ -1,0 +1,10 @@
+insert into question_push (examid, qid) values (6, 8);
+insert into question_push (examid, qid) values (8, 5);
+insert into question_push (examid, qid) values (9, 2);
+insert into question_push (examid, qid) values (5, 10);
+insert into question_push (examid, qid) values (7, 8);
+insert into question_push (examid, qid) values (4, 1);
+insert into question_push (examid, qid) values (3, 7);
+insert into question_push (examid, qid) values (9, 1);
+insert into question_push (examid, qid) values (10, 3);
+insert into question_push (examid, qid) values (9, 9);

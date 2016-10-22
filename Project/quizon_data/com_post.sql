@@ -1,0 +1,10 @@
+insert into com_post (postid, userid, cid) values (6, 8, 6);
+insert into com_post (postid, userid, cid) values (10, 9, 6);
+insert into com_post (postid, userid, cid) values (1, 2, 10);
+insert into com_post (postid, userid, cid) values (3, 3, 3);
+insert into com_post (postid, userid, cid) values (5, 3, 5);
+insert into com_post (postid, userid, cid) values (4, 2, 9);
+insert into com_post (postid, userid, cid) values (7, 2, 4);
+insert into com_post (postid, userid, cid) values (9, 10, 1);
+insert into com_post (postid, userid, cid) values (2, 8, 2);
+insert into com_post (postid, userid, cid) values (8, 8, 6);

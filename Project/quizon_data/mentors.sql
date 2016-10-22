@@ -1,0 +1,10 @@
+insert into mentors (userid, qualification) values (3, 'PH.D');
+insert into mentors (userid, qualification) values (5, 'MS-CSE');
+insert into mentors (userid, qualification) values (10, 'UG-BT');
+insert into mentors (userid, qualification) values (8, 'PH.D');
+insert into mentors (userid, qualification) values (4, 'PG-CSE');
+insert into mentors (userid, qualification) values (6, '12th');
+insert into mentors (userid, qualification) values (7, 'UG-CSE');
+insert into mentors (userid, qualification) values (2, 'PG-BT');
+insert into mentors (userid, qualification) values (9, 'MS-ML');
+insert into mentors (userid, qualification) values (1, 'PH.D-ML');

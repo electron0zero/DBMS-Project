@@ -1,0 +1,10 @@
+insert into study_material (sid, description) values (null, 'Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.');
+insert into study_material (sid, description) values (null, 'Nullam porttitor lacus at turpis.');
+insert into study_material (sid, description) values (null, 'Donec vitae nisi.');
+insert into study_material (sid, description) values (null, 'Vivamus vel nulla eget eros elementum pellentesque.');
+insert into study_material (sid, description) values (null, 'Donec semper sapien a libero.');
+insert into study_material (sid, description) values (null, 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
+insert into study_material (sid, description) values (null, 'Duis aliquam convallis nunc.');
+insert into study_material (sid, description) values (null, 'Pellentesque at nulla.');
+insert into study_material (sid, description) values (null, 'Phasellus in felis.');
+insert into study_material (sid, description) values (null, 'Duis aliquam convallis nunc.');

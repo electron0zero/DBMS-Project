@@ -1,0 +1,28 @@
+user {userid(key), name, email, location, Password, isMentor }
+interestes {iid(key), description }
+userInterests {userid(key), iid(key)}
+Community {cid(key), name}
+Posts {postid(key), description}
+questions {Qid(key), questions, op1, op2, op3, op4, Answer, isActive, isPublic }
+user_com {uid(key), cid(key)}
+com_post {postid(key), uid, cid}
+Q_int_user {Qid(key), uid, iid}
+stats {uid(key), iid(key), QuizzesPlayes, iXP}
+feedback {uid(key), iid(key), Description}
+student { uid(key), school, mentorId }
+Mentor {uid(key), A_Qalificaton }
+student_activity {userid(key), exam_Attempts }
+Mentor_activity {userid(key), exams_made}
+Exam {examid(key), time, date}
+Exam_Attempts {userid(key), examid(key)}
+Exam_posts {userid(key), examid(key)}
+Question_push {examid(key), qid(key)}
+Skill {skillid(key), skill}
+Mentor_skill {userid(key), Skillid(key)}
+Study_Matarial {sid(key), Description}
+Skill_Studymatarial {uid(key),skillid(key), sid(key)}
+poll {pollid(key), description}
+poll_options {pollid(key), options(key), hits}
+poll_generation {pollid(key), userid}
+challenges_score {userid(key), challengeid(key), score}
+challenges {challengeid(key), qid(key)}

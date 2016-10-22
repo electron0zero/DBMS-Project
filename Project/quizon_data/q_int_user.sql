@@ -1,0 +1,10 @@
+insert into q_int_user (qid, userid, iid) values (7, 4, 10);
+insert into q_int_user (qid, userid, iid) values (10, 10, 8);
+insert into q_int_user (qid, userid, iid) values (6, 5, 7);
+insert into q_int_user (qid, userid, iid) values (3, 4, 5);
+insert into q_int_user (qid, userid, iid) values (9, 6, 7);
+insert into q_int_user (qid, userid, iid) values (2, 6, 4);
+insert into q_int_user (qid, userid, iid) values (5, 7, 1);
+insert into q_int_user (qid, userid, iid) values (4, 6, 1);
+insert into q_int_user (qid, userid, iid) values (1, 1, 1);
+insert into q_int_user (qid, userid, iid) values (8, 7, 4);

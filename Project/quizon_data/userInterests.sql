@@ -1,0 +1,10 @@
+insert into userInterests (userid, iid) values (9, 6);
+insert into userInterests (userid, iid) values (9, 1);
+insert into userInterests (userid, iid) values (6, 3);
+insert into userInterests (userid, iid) values (6, 9);
+insert into userInterests (userid, iid) values (6, 7);
+insert into userInterests (userid, iid) values (2, 1);
+insert into userInterests (userid, iid) values (4, 4);
+insert into userInterests (userid, iid) values (9, 2);
+insert into userInterests (userid, iid) values (1, 5);
+insert into userInterests (userid, iid) values (5, 3);

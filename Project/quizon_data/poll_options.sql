@@ -1,0 +1,10 @@
+insert into poll_options (pollid, options, hits) values (8, 'yes', 47);
+insert into poll_options (pollid, options, hits) values (6, 'NO', 39);
+insert into poll_options (pollid, options, hits) values (5, 'I do not know', 28);
+insert into poll_options (pollid, options, hits) values (6, '50', 10);
+insert into poll_options (pollid, options, hits) values (8, 'Hell Yeah !!', 6);
+insert into poll_options (pollid, options, hits) values (1, 'Count me in', 39);
+insert into poll_options (pollid, options, hits) values (1, 'once more', 37);
+insert into poll_options (pollid, options, hits) values (8, 'i am a good guy', 38);
+insert into poll_options (pollid, options, hits) values (5, 'i am not sure', 11);
+insert into poll_options (pollid, options, hits) values (2, 'sure', 37);

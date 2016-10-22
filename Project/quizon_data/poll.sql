@@ -1,0 +1,10 @@
+insert into poll (pollid, description) values (null, ' are you PM.');
+insert into poll (pollid, description) values (null, 'would you like to play csgo');
+insert into poll (pollid, description) values (null, 'are you an english speaker');
+insert into poll (pollid, description) values (null, 'this is good');
+insert into poll (pollid, description) values (null, 'are you god ??');
+insert into poll (pollid, description) values (null, 'have you seen god');
+insert into poll (pollid, description) values (null, 'are you a master of linux');
+insert into poll (pollid, description) values (null, 'wanna have lunch today');
+insert into poll (pollid, description) values (null, 'this is just a random string');
+insert into poll (pollid, description) values (null, 'this is a test');

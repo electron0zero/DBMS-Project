@@ -1,0 +1,10 @@
+insert into poll_generation (pollid, userid) values (6, 5);
+insert into poll_generation (pollid, userid) values (9, 1);
+insert into poll_generation (pollid, userid) values (10, 4);
+insert into poll_generation (pollid, userid) values (7, 2);
+insert into poll_generation (pollid, userid) values (3, 7);
+insert into poll_generation (pollid, userid) values (1, 8);
+insert into poll_generation (pollid, userid) values (2, 4);
+insert into poll_generation (pollid, userid) values (5, 3);
+insert into poll_generation (pollid, userid) values (8, 10);
+insert into poll_generation (pollid, userid) values (4, 7);
